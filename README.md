@@ -6,3 +6,4 @@
 ![Screenshot 2024-02-17 003241](https://github.com/birappankumar/Hotel_review_sys/assets/99120507/fcb20b37-9ab7-445d-97f6-4d3099c83b09)
 ![Screenshot 2024-02-17 003223](https://github.com/birappankumar/Hotel_review_sys/assets/99120507/6e02f25f-21e9-4b41-9168-89465d690d36)
 ![Screenshot 2024-02-17 003211](https://github.com/birappankumar/Hotel_review_sys/assets/99120507/1ab79e22-0707-42c7-babc-acef8fe19d77)
+![Screenshot 2024-02-17 003847](https://github.com/birappankumar/Hotel_review_sys/assets/99120507/e75abe89-d05a-4b8a-8107-1e5ae50d2994)
